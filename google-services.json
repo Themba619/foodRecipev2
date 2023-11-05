@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "469853786927",
+    "project_id": "myrecipe-58c34",
+    "storage_bucket": "myrecipe-58c34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469853786927:android:fe101b5b122afcd4ee47da",
+        "android_client_info": {
+          "package_name": "com.kiss_from_a_rose.foodAppGoogleAuth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469853786927-84vnvr985ddshhrh82iop7mdddf2j557.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kiss_from_a_rose.foodAppGoogleAuth",
+            "certificate_hash": "f49355267a4841e361c01fe1bb95dfaf228e431d"
+          }
+        },
+        {
+          "client_id": "469853786927-oc1anbpi24prdbp0tgqjq0vaafunn4vb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kiss_from_a_rose.foodAppGoogleAuth",
+            "certificate_hash": "43052e99fe192357ed78c929f299c171c2650269"
+          }
+        },
+        {
+          "client_id": "469853786927-mlqt2ajq7f31csipvcb5kutvbvguo052.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvqmsLbjYyMP59UAdfg-PQRTaHYvufInU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469853786927-mlqt2ajq7f31csipvcb5kutvbvguo052.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
